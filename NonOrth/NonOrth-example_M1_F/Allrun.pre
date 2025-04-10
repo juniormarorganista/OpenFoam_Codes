@@ -1,0 +1,4 @@
+# GMSH to FOAM conversion
+gmshToFoam domain.msh
+# Change patch type
+createPatch -overwrite
